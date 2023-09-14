@@ -1,0 +1,18 @@
+Tolink godaddy doin with firebase
+
+i purchase a domain abc.com from godaddy
+and i have an web app (portfolio/resume) deployed(hoisted) in firebase 
+now i need to route this firebase app to godaddy
+
+click on the web app in firebase
+click connect t a domain
+enter domain name
+you will get text
+add this TXT in 
+
+https://dcc.godaddy.com/manage/abc.com/dns
+
+choose hoist as "@"
+
+wait for some time
+check 'amaldev.pme'
